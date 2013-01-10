@@ -1,0 +1,3 @@
+[submodule "bundle/vim-scripts_AutoTag"]
+	path = bundle/vim-scripts_AutoTag
+	url = git://github.com/vim-scripts/AutoTag.git
