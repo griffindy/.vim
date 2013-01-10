@@ -31,3 +31,45 @@
 [submodule "bundle/gregsexton_gitv"]
 	path = bundle/gregsexton_gitv
 	url = git://github.com/gregsexton/gitv.git
+[submodule "bundle/claco_jasmine.vim"]
+	path = bundle/claco_jasmine.vim
+	url = git://github.com/claco/jasmine.vim.git
+[submodule "bundle/ervandrew_supertab"]
+	path = bundle/ervandrew_supertab
+	url = git://github.com/ervandew/supertab.git
+[submodule "bundle/scrooloose_syntastic"]
+	path = bundle/scrooloose_syntastic
+	url = git://github.com/scrooloose/syntastic.git
+[submodule "bundle/tomtom_tcomment_vim"]
+	path = bundle/tomtom_tcomment_vim
+	url = git://github.com/tomtom/tcomment_vim.git
+[submodule "bundle/kchmck_vim-coffee-script"]
+	path = bundle/kchmck_vim-coffee-script
+	url = git://github.com/kchmck/vim-coffee-script.git
+[submodule "bundle/tpope_vim-endwise"]
+	path = bundle/tpope_vim-endwise
+	url = git://github.com/tpope/vim-endwise.git
+[submodule "bundle/tpope_vim-fugitive"]
+	path = bundle/tpope_vim-fugitive
+	url = git://github.com/tpope/vim-fugitive.git
+[submodule "bundle/nathanaelkane_vim-indent-guides"]
+	path = bundle/nathanaelkane_vim-indent-guides
+	url = git://github.com/nathanaelkane/vim-indent-guides.git
+[submodule "bundle/pangloss_vim-javascript"]
+	path = bundle/pangloss_vim-javascript
+	url = git://github.com/pangloss/vim-javascript.git
+[submodule "bundle/tpope_vim-markdown"]
+	path = bundle/tpope_vim-markdown
+	url = git://github.com/tpope/vim-markdown.git
+[submodule "bundle/Lokaltog_vim-powerline"]
+	path = bundle/Lokaltog_vim-powerline
+	url = git://github.com/Lokaltog/vim-powerline.git
+[submodule "bundle/tpope_vim-rails"]
+	path = bundle/tpope_vim-rails
+	url = git://github.com/tpope/vim-rails.git
+[submodule "bundle/nelstrom_vim-textobj-rubyblock"]
+	path = bundle/nelstrom_vim-textobj-rubyblock
+	url = git://github.com/nelstrom/vim-textobj-rubyblock.git
+[submodule "bundle/bootleq_vim-textobj-rubysymbol"]
+	path = bundle/bootleq_vim-textobj-rubysymbol
+	url = git://github.com/bootleq/vim-textobj-rubysymbol.git
