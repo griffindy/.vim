@@ -1,3 +1,6 @@
 [submodule "bundle/vim-scripts_AutoTag"]
 	path = bundle/vim-scripts_AutoTag
 	url = git://github.com/vim-scripts/AutoTag.git
+[submodule "bundle/mileszs_ack.vim"]
+	path = bundle/mileszs_ack.vim
+	url = git://github.com/mileszs/ack.vim.git
