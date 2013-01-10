@@ -10,3 +10,6 @@
 [submodule "bundle/flazz_vim-colorschemes"]
 	path = bundle/flazz_vim-colorschemes
 	url = git://github.com/flazz/vim-colorschemes.git
+[submodule "bundle/jgdavey_vim-turbux"]
+	path = bundle/jgdavey_vim-turbux
+	url = https://github.com/jgdavey/vim-turbux
