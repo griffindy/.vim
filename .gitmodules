@@ -16,3 +16,6 @@
 [submodule "bundle/benmills_vimux"]
 	path = bundle/benmills_vimux
 	url = git://github.com/benmills/vimux.git
+[submodule "bundle/tpope_vim-surround"]
+	path = bundle/tpope_vim-surround
+	url = git://github.com/tpope/vim-surround.git
