@@ -25,3 +25,6 @@
 [submodule "bundle/Raimondi_delimitMate"]
 	path = bundle/Raimondi_delimitMate
 	url = git://github.com/Raimondi/delimitMate.git
+[submodule "bundle/mattn_gist-vim"]
+	path = bundle/mattn_gist-vim
+	url = git://github.com/mattn/gist-vim.git
