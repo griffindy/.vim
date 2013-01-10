@@ -76,3 +76,6 @@
 [submodule "bundle/kana_vim-textobj-user"]
 	path = bundle/kana_vim-textobj-user
 	url = git://github.com/kana/vim-textobj-user.git
+[submodule "bundle/chriskempson_vim-tomorrow-theme"]
+	path = bundle/chriskempson_vim-tomorrow-theme
+	url = git://github.com/chriskempson/vim-tomorrow-theme.git
