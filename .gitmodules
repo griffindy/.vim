@@ -73,3 +73,6 @@
 [submodule "bundle/bootleq_vim-textobj-rubysymbol"]
 	path = bundle/bootleq_vim-textobj-rubysymbol
 	url = git://github.com/bootleq/vim-textobj-rubysymbol.git
+[submodule "bundle/kana_vim-textobj-user"]
+	path = bundle/kana_vim-textobj-user
+	url = git://github.com/kana/vim-textobj-user.git
