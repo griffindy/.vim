@@ -4,3 +4,6 @@
 [submodule "bundle/mileszs_ack.vim"]
 	path = bundle/mileszs_ack.vim
 	url = git://github.com/mileszs/ack.vim.git
+[submodule "bundle/vim-scripts_argtextobj.vim"]
+	path = bundle/vim-scripts_argtextobj.vim
+	url = git://github.com/vim-scripts/argtextobj.vim.git
