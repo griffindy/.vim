@@ -79,3 +79,6 @@
 [submodule "bundle/chriskempson_vim-tomorrow-theme"]
 	path = bundle/chriskempson_vim-tomorrow-theme
 	url = git://github.com/chriskempson/vim-tomorrow-theme.git
+[submodule "bundle/jgdavey_vim-railscasts"]
+	path = bundle/jgdavey_vim-railscasts
+	url = git://github.com/jgdavey/vim-railscasts.git

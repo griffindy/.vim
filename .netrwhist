@@ -1,3 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_cnt =7
 let g:netrw_dirhist_1='/Users/griffindy/code/ruby/shareaholic_on_rails'
+let g:netrw_dirhist_2='/Users/griffindy/code/ruby/shareaholic_on_rails/app'
+let g:netrw_dirhist_3='/Users/griffindy/code/ruby/shareaholic_on_rails/app/assets'
+let g:netrw_dirhist_4='/Users/griffindy/code/ruby/shareaholic_on_rails/app/assets/javascripts'
+let g:netrw_dirhist_5='/Users/griffindy/code/ruby/shareaholic_on_rails/app/assets/javascripts/pub'
+let g:netrw_dirhist_6='/Users/griffindy/code/ruby/shareaholic_on_rails'
+let g:netrw_dirhist_7='/Users/griffindy/code/ruby/shareaholic_on_rails/app'
