@@ -7,3 +7,6 @@
 [submodule "bundle/vim-scripts_argtextobj.vim"]
 	path = bundle/vim-scripts_argtextobj.vim
 	url = git://github.com/vim-scripts/argtextobj.vim.git
+[submodule "bundle/flazz_vim-colorschemes"]
+	path = bundle/flazz_vim-colorschemes
+	url = git://github.com/flazz/vim-colorschemes.git
