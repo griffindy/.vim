@@ -22,3 +22,6 @@
 [submodule "bundle/kien_ctrlp.vim"]
 	path = bundle/kien_ctrlp.vim
 	url = git://github.com/kien/ctrlp.vim.git
+[submodule "bundle/Raimondi_delimitMate"]
+	path = bundle/Raimondi_delimitMate
+	url = git://github.com/Raimondi/delimitMate.git
